@@ -1,0 +1,37 @@
+---
+title: "Assignment Name"
+author: "Susan Sayre | Smith College"
+date: "DEPT ###, Semester"
+output: 
+  html_document:
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Submission details
+
+- Due date/time:
+- Submission details
+
+## **What** I want you to do
+
+Add a short description of the assignment
+
+## **Why** I want you to do it
+
+Briefly outline objectives
+
+## **How** I want you to do it {.tabset}
+
+### Basic Instructions
+
+Here are some basic instructions.
+
+### Grading Rubric
+
+Here's how I'll grade it
+
+Add assignment details
