@@ -24,7 +24,7 @@ Add a short description of the assignment
 
 Briefly outline objectives
 
-# **How** I want you to do it {.tabset}
+# **How** I want you to do it
 
 ## Basic Instructions
 
